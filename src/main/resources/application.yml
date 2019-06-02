@@ -1,0 +1,4 @@
+spring:
+  profile: test
+  version: 5.0.8
+name: ymltest
